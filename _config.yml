@@ -1,3 +1,4 @@
 plugins:
   - jekyll-sitemap
-url: url: https://TobiasHanggi.github.io/test-repository
+url: "https://TobiasHanggi.github.io"
+baseurl: "/test-repository"
